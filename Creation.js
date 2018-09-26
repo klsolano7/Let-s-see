@@ -1,7 +1,3 @@
-//practiced more code academy today//
+//Java scripts//
 
-//lectures//
 
-//lecture continuation//
-//lecture continuation//
-//reading//
