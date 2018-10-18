@@ -1,4 +1,11 @@
 body{
-    background-image: url("../firstImg.jpg");
+    background-image: url("../mach.jpg");
     background-size: cover;    
+}
+.header {
+    display:flex;
+    justify-content: center;
+    align-items: center
+    height: 100vh
+    width: 100vw
 }
