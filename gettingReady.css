@@ -1,5 +1,5 @@
 body{
-    background-image: url("../mach.jpg");
+    background-image: url("../../Downloads/machu.jpg");
     background-size: cover;    
 }
 .header {
@@ -11,8 +11,8 @@ body{
 }
 
 #logo{
-    height: 1800px; 
-    width: 1800px;
+    height: 500px; 
+    width: 500px;
     position: relative; 
     left: 300px;
 
