@@ -65,3 +65,24 @@ switch (personIKnow) {
 // } else {
 //   console.log("Guess I'll have a snack")
 // }
+
+var bouncer = "kenneth";
+console.log(`Welcome to Club Solano! Your bouncer today is ${bouncer}`);
+for (var i = 0; i <= 66; i++){
+console.log(`This girl is ${i} years old`);
+
+if (i < 18) {
+  console.log(`GET YO ${i} YEAR OLD THE FUH OUT HERE!`)
+} else if (i >= 18 && i < 21){
+  console.log(`Nice try ${i} aged fake ass bih`)
+} else if (i >= 21 && i <= 40){
+  console.log(`Welcome to club Solano BIHHH`);
+} else {
+  console.log(`Bye hoe ${i} year old are not welcome here!`);
+}
+
+}
+
+
+
+
