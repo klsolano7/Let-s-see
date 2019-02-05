@@ -1,6 +1,6 @@
 //HTML AND CSS REFRESHER//
 //continuation with platform//
-//still on code pen.............................//
+//still on code pen..............................//
 
 var personIKnow = "Andrea";
 
@@ -97,5 +97,19 @@ for (var i = 1; i <= 30; i++){
   }
 }
 
+//important code to study below
 
-
+for (var i = 1; i <= 30; i++){
+  if (i % 7 === 0) { continue; }
+  else if (i % 2 !==0 && (i - 1) % 10 === 0) {
+    console.log("monkey");
+  }
+  
+  
+  else if (i % 10 === 0 || i % 15 === 0){
+    console.log("Donkey");
+  }
+  else {
+    console.log(i)
+  }
+}
