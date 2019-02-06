@@ -113,3 +113,19 @@ for (var i = 1; i <= 30; i++){
     console.log(i)
   }
 }
+
+// var dcCharacterArray = ["Superman", "Flash", "Batman", "Kenneth"];
+
+// for (var i = 0; i < dcCharacterArray.length; i++){
+// console.log(dcCharacterArray[i]);
+
+// if (dcCharacterArray[i] === "Batman"){
+//     console.log("I will kill you");
+//   } else if (dcCharacterArray[i] === "Flash"){
+//     console.log("I am the fastest man alive!")
+//   } else if (dcCharacterArray[i] === "Superman"){
+//     console.log("I am the man of steel")
+//   } else {
+//     console.log("DC RULES!")
+//   }
+// }
