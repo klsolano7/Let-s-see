@@ -1,8 +1,8 @@
-//HTML AND CSS REFRESHER//
-//continuation with platform//
-//still on code pen..................................//
+// HTML AND CSS REFRESHER//
+// continuation with platform//
+// still on code pen...................................//
 
-var personIKnow = "Andrea";
+// var personIKnow = "Andrea";
 
 // if (personIKnow === "Janet") {
 // console.log(`${personIKnow} is my mom`);
@@ -18,24 +18,24 @@ var personIKnow = "Andrea";
 // }
 
 
-switch (personIKnow) {
-  case "Janet":
-    console.log(`${personIKnow} is my mom`);
-    break;
-  case "Andrea":
-     console.log(`${personIKnow} is my gf`);
-    break;
-  case "Brandon":
-       console.log(`${personIKnow} is my boy`);
-    break;
-  case "Felicia":
-         console.log(`${personIKnow} Bye bih`);
-    break;
-  default:
-  console.log("Who duh fuh iz dis")
-    //Statements executed when none of the values match the value of the expression
-    break;
-} 
+// switch (personIKnow) {
+//   case "Janet":
+//     console.log(`${personIKnow} is my mom`);
+//     break;
+//   case "Andrea":
+//      console.log(`${personIKnow} is my gf`);
+//     break;
+//   case "Brandon":
+//        console.log(`${personIKnow} is my boy`);
+//     break;
+//   case "Felicia":
+//          console.log(`${personIKnow} Bye bih`);
+//     break;
+//   default:
+//   console.log("Who duh fuh iz dis")
+//     Statements executed when none of the values match the value of the expression
+//     break;
+// } 
 
 
 
@@ -66,53 +66,53 @@ switch (personIKnow) {
 //   console.log("Guess I'll have a snack")
 // }
 
-var bouncer = "kenneth";
-console.log(`Welcome to Club Solano! Your bouncer today is ${bouncer}`);
-for (var i = 0; i <= 66; i++){
-console.log(`This girl is ${i} years old`);
+// var bouncer = "kenneth";
+// console.log(`Welcome to Club Solano! Your bouncer today is ${bouncer}`);
+// for (var i = 0; i <= 66; i++){
+// console.log(`This girl is ${i} years old`);
 
-if (i < 18) {
-  console.log(`GET YO ${i} YEAR OLD THE FUH OUT HERE!`)
-} else if (i >= 18 && i < 21){
-  console.log(`Nice try ${i} aged fake ass bih`)
-} else if (i >= 21 && i <= 40){
-  console.log(`Welcome to club Solano BIHHH`);
-} else {
-  console.log(`Bye hoe ${i} year old are not welcome here!`);
-}
+// if (i < 18) {
+//   console.log(`GET YO ${i} YEAR OLD THE FUH OUT HERE!`)
+// } else if (i >= 18 && i < 21){
+//   console.log(`Nice try ${i} aged fake ass bih`)
+// } else if (i >= 21 && i <= 40){
+//   console.log(`Welcome to club Solano BIHHH`);
+// } else {
+//   console.log(`Bye hoe ${i} year old are not welcome here!`);
+// }
 
-}
-for (var i = 1; i <= 30; i++){
-  if (i % 7 === 0) { continue; }
-  else if (i % 2 !==0 && (i - 1) % 10 === 0) {
-    console.log("monkey");
-  }
+// }
+// for (var i = 1; i <= 30; i++){
+//   if (i % 7 === 0) { continue; }
+//   else if (i % 2 !==0 && (i - 1) % 10 === 0) {
+//     console.log("monkey");
+//   }
   
   
-  else if (i % 10 === 0 || i % 15 === 0){
-    console.log("Donkey");
-  }
-  else {
-    console.log(i)
-  }
-}
+//   else if (i % 10 === 0 || i % 15 === 0){
+//     console.log("Donkey");
+//   }
+//   else {
+//     console.log(i)
+//   }
+// }
 
-//important code to study below
+// //important code to study below
 
-for (var i = 1; i <= 30; i++){
-  if (i % 7 === 0) { continue; }
-  else if (i % 2 !==0 && (i - 1) % 10 === 0) {
-    console.log("monkey");
-  }
+// for (var i = 1; i <= 30; i++){
+//   if (i % 7 === 0) { continue; }
+//   else if (i % 2 !==0 && (i - 1) % 10 === 0) {
+//     console.log("monkey");
+//   }
   
   
-  else if (i % 10 === 0 || i % 15 === 0){
-    console.log("Donkey");
-  }
-  else {
-    console.log(i)
-  }
-}
+//   else if (i % 10 === 0 || i % 15 === 0){
+//     console.log("Donkey");
+//   }
+//   else {
+//     console.log(i)
+//   }
+// }
 
 // var dcCharacterArray = ["Superman", "Flash", "Batman", "Kenneth"];
 
@@ -132,24 +132,24 @@ for (var i = 1; i <= 30; i++){
 
 // _____________________________________________
 
-for (var i = 1; i <= 50; i++){
-  if (i % 7 === 0){
-    console.log(i);
-      i +=1;
-        continue;
-  } else if (i % 10 === 0 || i % 15 ===0){
-      console.log("donkey");
-        continue;
-  } else if (i % 2 !== 0 && (i - 1) % 10 === 0){
-    console.log("monkey")
-  }
+// for (var i = 1; i <= 50; i++){
+//   if (i % 7 === 0){
+//     console.log(i);
+//       i +=1;
+//         continue;
+//   } else if (i % 10 === 0 || i % 15 ===0){
+//       console.log("donkey");
+//         continue;
+//   } else if (i % 2 !== 0 && (i - 1) % 10 === 0){
+//     console.log("monkey")
+//   }
   
   
   
   
-  console.log(i);
+//   console.log(i);
   
   
-}
+// }
 
 
