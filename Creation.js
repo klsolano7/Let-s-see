@@ -1,6 +1,6 @@
 // HTML AND CSS REFRESHER//
 // continuation with platform//
-// still on code pen...................................//
+// still on code pen....................................//
 
 // var personIKnow = "Andrea";
 
@@ -152,4 +152,22 @@
   
 // }
 
+// Replace last array below
 
+// var animalArray = ["Dog", "Cat", "Fish", "Lizard", "Whale", "Cheetah"];
+// console.log("Original: " + animalArray);
+// console.log("------");
+
+// animalArray.push("Monkey", "Lion");
+// console.log(animalArray);
+
+// animalArray.splice(0,2);
+// console.log(animalArray);
+
+// var lastIndex = animalArray.length - 1;
+// var lastElement = animalArray[lastIndex];
+
+// console.log(lastElement);
+
+// animalArray.splice(lastIndex, 1, "last");
+// console.log(animalArray);
