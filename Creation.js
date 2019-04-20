@@ -3,6 +3,8 @@
 // still on code pen..............................................
 //studying
 
+//reviewed lectures
+
 // var personIKnow = "Andrea";
 
 // if (personIKnow === "Janet") {
