@@ -3,7 +3,7 @@
 // still on code pen..............................................
 //studying
 
-//reviewed lectures
+//reviewed lectures CONTINUE
 
 // var personIKnow = "Andrea";
 
