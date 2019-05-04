@@ -3,6 +3,8 @@
 // still on code pen..............................................
 //studying
 
+// working on project 2
+
 //reviewed lectures CONTINUE
 
 //reviewing handlebars online
