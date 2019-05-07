@@ -3,7 +3,7 @@
 // still on code pen..............................................
 //studying
 
-// working on project 2..
+// working on project 2...
 
 //reviewed lectures CONTINUE
 
