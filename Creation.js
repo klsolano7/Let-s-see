@@ -1,7 +1,7 @@
 // HTML AND CSS REFRESHER//
 // continuation with platform//
 // still on code pen..............................................
-//studying
+//studying.
 
 // working on project 2...
 
