@@ -5,7 +5,7 @@
 
 // working on project 2...
 
-//now working on project 3
+//now working on project 3.
 
 //reviewed lectures CONTINUE
 
