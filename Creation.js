@@ -2,6 +2,9 @@
 // continuation with platform//
 // still on code pen..............................................
 //studying.
+//started a course on Dive in and learn React 16.8 from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!
+
+
 
 // working on project 2...
 
