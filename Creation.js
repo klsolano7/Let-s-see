@@ -15,7 +15,7 @@
 
 //now working on project 3.....
 
-//reviewed lectures CONTINUE
+//reviewed lectures CONTINUATION
 
 //reviewing handlebars online
 
