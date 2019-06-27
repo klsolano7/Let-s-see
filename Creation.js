@@ -7,7 +7,7 @@
 //Watched UDemy course continuation
 //taking Udemy course continuation Maximilian Schwarzmüller
 //Continueing to  studying
-//taking udemy course
+//taking udemy course CONTINUATION
 
 // working on project 2...
 
