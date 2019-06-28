@@ -15,7 +15,7 @@
 
 //now working on project 3.....
 
-//reviewed lectures CONTINUATION
+//reviewed lectures CONTINUATION with Maximilian Schwarzmuller
 
 //reviewing handlebars online
 
