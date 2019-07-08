@@ -5,7 +5,7 @@
 //started a course on Dive in and learn React 16.8 from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!
 
 //Watched UDemy course continuation
-//taking Udemy course  Maximilian Schwarzmüller continuation
+//taking Udemy course  Maximilian Schwarzmüller continuation online
 //Continueing to  studying
 //taking udemy course CONTINUATION
 
